@@ -12,7 +12,7 @@ This project implements a Community Engagement Rank system for the Farcaster dec
 
 ## Prerequisites
 
-- Access to Farcaster data (via dune or similar data provider)
+- Access to Farcaster data (via dune or similar data provider) .
 - SQL environment compatible with the provided query (e.g., Dune's SQL editor)
 - Python environment for running OpenRank algorithm
 
